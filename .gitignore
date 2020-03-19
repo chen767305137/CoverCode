@@ -1,6 +1,7 @@
 /target/
 /out/
 /.svn/
+/.idea/
 
 .classpath
 .project
